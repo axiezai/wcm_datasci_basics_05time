@@ -1,4 +1,6 @@
 # Digitalized Signals in Time and Space
+The course contents are adopted from Dr. Lucas Parra's course for signal processing.
+
 To view the class slides, make sure you have [rise](https://github.com/damianavila/RISE) installed for your jupyter notebook, and use `jupyter notebook` to open the notebook, and click on the `rise` plugin button. (The slides doesn't work with with `jupyter lab`)
 
 ## Assignment:
