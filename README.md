@@ -17,5 +17,7 @@ Again, create your own local repository, and using the same `conda` environment 
 - Slide 11:
 
   ![artifact](./imgs/aliasing.png)
+  
+- For slide 11, create a copy of the image where there is no aliasing/artifacts (good resolution), and another copy that has more than 10 complete circle artifacts (terrible resolution).
 
 Submit your assignment as a pull request on GitHub, merging your `submission` branch into your `main` or `master` branch. Then add `axiezai@gmail.com` as a reviewer to your pull request. 
